@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of PersonaVoice AI",
+  "description": "An advanced one-to-one audio roleplay platform powered by Gemini Live API, featuring selectable personality archetypes and real-time vocal interactions.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
